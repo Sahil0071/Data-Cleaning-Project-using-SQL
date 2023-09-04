@@ -1,0 +1,1 @@
+-- This is a data cleaning project that analyze and cleans the nashville housing dataset using SQL
